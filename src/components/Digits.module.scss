@@ -1,0 +1,10 @@
+@import '../index.scss';
+
+.digits {
+  display: flex;
+  flex-wrap: wrap;
+  button {
+    flex: 1 1 33.333%;
+    max-width: 33.333%;
+  }
+}

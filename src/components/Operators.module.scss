@@ -1,0 +1,8 @@
+.operators {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: red;
+  button {
+    flex: 1 1 25%;
+  }
+}
